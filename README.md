@@ -23,4 +23,4 @@ async function getAnswer(){
 btn.addEventListener('click',getAnswer);
 ```
 
-![](img.png)
+![](https://github.com/scagy/lab6-albert/blob/master/img.PNG)
