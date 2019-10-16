@@ -22,4 +22,5 @@ async function getAnswer(){
 }
 btn.addEventListener('click',getAnswer);
 ```
-![image](http://url/to/img.png)
+
+![](img.png)
